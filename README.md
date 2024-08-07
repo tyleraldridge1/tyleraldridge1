@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/tyleraldridge1/ActiveDirectoryLab)
 
 
 <h2>:page_facing_up: Certifications:</h2>
