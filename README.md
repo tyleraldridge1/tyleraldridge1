@@ -13,7 +13,7 @@
   - [CompTIA Security+](https://www.comptia.org/certifications/security)
 
 
-<h2>📺 Popular YouTube Videos:</h2>
+<h2>📺 YouTube Videos:</h2>
 
 - [Tutorial: Active Directory Homelab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
